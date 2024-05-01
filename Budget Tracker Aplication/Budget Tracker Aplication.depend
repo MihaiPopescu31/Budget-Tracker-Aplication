@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1714543597 source:c:\users\mihai\projects c++\budget tracker application in c++\budget tracker aplication\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<iomanip>
+
