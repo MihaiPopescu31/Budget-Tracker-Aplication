@@ -1,3 +1,1 @@
-08.04.2024 income 6900 salary march
-21.04.2024 780 0 
-21.04.2024 expense 780 mall expense
+30.04.2024 income 7200 bonus salary
