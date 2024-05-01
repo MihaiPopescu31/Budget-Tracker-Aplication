@@ -1,1 +1,2 @@
-30.04.2024 income 7200 bonus salary
+08.05.2024 expense 151 payment Digi
+08.05.2024 expense 350 payment Electrica
